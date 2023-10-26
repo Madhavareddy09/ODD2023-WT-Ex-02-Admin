@@ -4,5 +4,6 @@
 
 
 # Design Procedure
-![image](https://github.com/Madhavareddy09/ODD2023-WT-Ex-02-Admin/assets/145742470/39923afa-a626-4867-a595-17c1b145ca2a)
+![image](https://github.com/Madhavareddy09/ODD2023-WT-Ex-02-Admin/assets/145742470/93291ddc-edcb-47d6-a20a-2cbc63f5edae)
+
 
